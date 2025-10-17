@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "FiiO X Jade Audio - JT1",
+        "description": "The FiiO X Jade Audio - JT1 is a high-end audio system that delivers a truly immersive listening experience. With its advanced audio technology and sleek design, it is the perfect choice for audiophiles who demand the best.",
+        "price": 99.00,
+        "rating": 4.2,
+        "ratingCount": 19,
+        "image": "/product 1/image 1.webp",
+        "images": ["/product 1/image 1.webp", "/product 1/image 2.webp", "/product 1/image 3.webp", "/product 1/image 4.webp", "/product 1/image 5.webp", "/product 1/image 6.webp", "/product 1/image 7.webp"]
+    },
+    {
+        "id": 2,
+        "name": "Audeze - MM-100",
+        "description": "The Audeze - MM-100 is a high-end audio system that delivers a truly immersive listening experience. With its advanced audio technology and sleek design, it is the perfect choice for audiophiles who demand the best.",
+        "price": 719.00,
+        "rating": 4.8,
+        "ratingCount": 12,
+        "image": "/product 2/image 1.webp",
+        "images": ["/product 2/image 1.webp", "/product 2/image 2.webp", "/product 2/image 3.webp", "/product 2/image 4.webp", "/product 2/image 5.webp", "/product 2/image 6.webp", "/product 2/image 7.webp"]
+    },
+    {
+        "id": 3,
+        "name": "SIVGA - Luan",
+        "description": "The SIVGA - Luan is a high-end audio system that delivers a truly immersive listening experience. With its advanced audio technology and sleek design, it is the perfect choice for audiophiles who demand the best.",
+        "price": 395.00,
+        "rating": 3.9,
+        "ratingCount": 34,
+        "image": "/product 3/image 1.webp",
+        "images": ["/product 3/image 1.webp", "/product 3/image 2.webp", "/product 3/image 3.webp", "/product 3/image 4.webp", "/product 3/image 5.webp", "/product 3/image 6.webp", "/product 3/image 7.webp", "/product 3/image 8.webp"]
+    },
+    {
+        "id": 4,
+        "name": "Sennheiser - HD 620S",
+        "description": "The Sennheiser - HD 620S is a high-end audio system that delivers a truly immersive listening experience. With its advanced audio technology and sleek design, it is the perfect choice for audiophiles who demand the best.",
+        "price": 539.00,
+        "rating": 4.5,
+        "ratingCount": 47,
+        "image": "/product 4/image 1.webp",
+        "images": ["/product 4/image 1.webp", "/product 4/image 2.webp", "/product 4/image 3.webp", "/product 4/image 4.webp", "/product 4/image 5.webp", "/product 4/image 6.webp", "/product 4/image 7.webp"]
+    }
+]
